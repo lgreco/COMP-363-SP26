@@ -6,7 +6,6 @@ These notes introduce the basic language of computational complexity. The goal i
 - some problems seem hard for deep reasons,
 - and complexity theory gives us a way to talk about that carefully.
 
-We will work at a level suitable for students with basic algebra and a willingness to think abstractly. No prior background in formal computer science is assumed.
 
 ---
 
